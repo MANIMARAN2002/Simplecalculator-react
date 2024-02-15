@@ -1,0 +1,36 @@
+.main{
+    text-align: center;
+    padding: 210px;
+    margin: 10px 200px;
+    margin-top:50px ;
+    background-color: skyblue;
+    border-radius: 10px;
+    height: 400px;
+    width: 20px;
+    padding-top: 50px
+}
+.input1,.input2{
+    font-size: 28px;
+    margin: -200px; 
+    margin-bottom: 20px;
+}
+.ans{
+    text-align: start;
+    font-size: 28px;
+    background-color: white;
+    padding-left: 20px;
+    margin:20px -170px;
+    
+}
+.button{
+   text-align: start;
+   margin:20px -170px;
+   border-color: black ;
+}
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9,.b0,.bt,.bd,.bm,.bp,.be,.bs,.bb1,.bb2,.bc{
+    font-size: 32px;
+    background-color: white;
+}
+.b1:hover,.b2:hover,.b3:hover,.b4:hover,.b5:hover,.b6:hover,.b7:hover,.b8:hover,.b9:hover,.b0:hover,.bt:hover,.bd:hover,.bm:hover,.bp:hover,.be:hover,.bs:hover,.bb1:hover,.bb2:hover,.bc:hover{
+    background-color: rgb(175, 219, 236);
+}
